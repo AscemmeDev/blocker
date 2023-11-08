@@ -1,10 +1,10 @@
-### Test work 
-## A client for sending data in remote server with getting limits 
+# Test work 
+###  ***A client for sending data in remote server with getting limits*** 
 
 
-to run the code use:
-<!---make run-->
 
+- ***To run the code use***:
+``make run``
 
-to run the build code 
-<!---make build-->
+- ***to run the build code:***
+``make build``
